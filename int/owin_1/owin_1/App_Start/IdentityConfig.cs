@@ -29,7 +29,7 @@ namespace owin_1
         // Use NuGet to install SendGrid (Basic C# client lib) 
         private async Task configSendGridasync(IdentityMessage message)
         {
-            string apiKey = "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";
+            string apiKey = "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";// "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";
             var client = new SendGridClient(apiKey);
             var from = new EmailAddress("msftdemoproject@gmail.com", "MSFT Demo Project");
             var subject = "Confirm Email";
