@@ -1,0 +1,21 @@
+﻿@model IEnumerable<owin_1.Models.BlogModel>
+
+@{
+    ViewBag.Title = "View Blog";
+}
+
+<div id="add_blog">
+    @{
+        Html.RenderAction("AddBlog");
+    }
+</div>
+
+<div class="form-horizontal">
+    <hr />
+    <div id="partialprepend">
+    </div>
+    @foreach (var item in Model)
+    {
+        @Html.Partial("PostTemplate", item)
+    }
+</div>

@@ -1,0 +1,39 @@
+﻿@model owin_1.Models.BlogModel
+
+@{
+    ViewBag.Title = "AddBlog";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<form class="form-horizontal" role="form" id="form">
+
+    @Html.AntiForgeryToken()
+    <h4>Create a new  post.</h4>
+    <hr />
+    @Html.HiddenFor(m => m.UserId)
+    @Html.HiddenFor(m => m.BlogId)
+    @Html.HiddenFor(m => m.TimeStamp)
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.Content, new { @class = "col-md-2 control-label", @required = "true" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Content, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tag, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(x => x.Tag, (SelectList)ViewBag.dropDownList, "Select Tag", new { @class = "form-control", @required = "true" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input id="addblogid" type="submit" class="btn btn-default" value="Post" />
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
