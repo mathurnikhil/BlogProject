@@ -2,20 +2,18 @@
     console.log($("#form").serialize());
     var form = $("#form").serialize();
     $.ajax({
-        url: "@Url.Action('AddBlog', 'UserData')", //'/UserData/AddBlog',
+        url: '/UserData/AddBlog',
         type: "POST",
-        data: form, //if you need to post Model data, use this
-        success: (function (result) {
-            $.ajax({
-                url: "@Url.Action('PostTemplate', 'UserData')", //'/UserData/PostTemplate',//"@Url.Action('UserData/Post')",
-                type: "GET",
-                data: form, //if you need to post Model data, use this
-                success: (function (result) {
-                    console.log(result);
-                    $("#partialprepend").html(result);
-                })
-            });
-        })
+        data: form //if you need to post Model data, use this
+    }).done(function (result) {
+        $.ajax({
+            url: '/UserData/PostTemplate',//"@Url.Action('UserData/Post')",
+            type: "POST",
+            data: form //if you need to post Model data, use this
+        }).done(function (result) {
+            console.log(result);
+            $("#partialprepend").html(result);
+        });
     });
 });
 
