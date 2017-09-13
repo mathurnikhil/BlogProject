@@ -365,9 +365,8 @@
     <Content Include="Views\UserData\Index.cshtml" />
     <Content Include="Views\UserData\AddBlog.cshtml" />
     <Content Include="Views\UserData\ViewBlog.cshtml" />
-    <Content Include="Views\UserData\PostTemplate.cshtml" />
+    <Content Include="Views\Shared\PostTemplate.cshtml" />
     <Content Include="Views\Home\GetPostByTag.cshtml" />
-    <Content Include="Views\Home\PostTemplate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -19,11 +19,6 @@ namespace owin_1.Controllers
         {
             return View();
         }
-        
-        public ActionResult PostTemplate(BlogModel model)
-        {
-            return PartialView(model);
-        }
 
         [Route("Home/GetPostByTag/{id}")]
         public async Task<ActionResult> GetPostByTag(string id)

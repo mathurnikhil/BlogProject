@@ -49,11 +49,6 @@ namespace owin_1.Controllers
                 return View(BlogInfo);
             }
         }
-        
-        public ActionResult PostTemplate(BlogModel model)
-        {
-            return PartialView(model);
-        }
 
         public ActionResult AddBlog()
         {
