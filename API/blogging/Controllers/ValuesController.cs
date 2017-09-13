@@ -56,7 +56,7 @@ namespace blogging.Controllers
 
         [HttpGet]
         [Route("api/values/user/{id}")]
-        public IHttpActionResult GetBlogsByUser(int id)
+        public IHttpActionResult GetBlogsByUser(string id)
         {
             var blogs = _blogRepo.GetBlogsByUser(id);
             if (blogs == null)
@@ -79,7 +79,18 @@ namespace blogging.Controllers
             }
             return Ok(blogs);
         }
+        [HttpGet]
+        [Route("api/values/blog/{id}")]
+        public IHttpActionResult GetBlogsById(int id)
+        {
+            var blogs = _blogRepo.GetBlogsByBlogId(id);
+            if (blogs == null)
+            {
+                return NotFound();
 
+            }
+            return Ok(blogs);
+        }
 
 
 

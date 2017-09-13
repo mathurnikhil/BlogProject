@@ -62,9 +62,14 @@ namespace blogging.Repository
             return BlogModels;
         }
 
-        public IEnumerable<BlogModel> GetBlogsByUser(int userid)
+        public IEnumerable<BlogModel> GetBlogsByUser(String userid)
         {
             BlogModels = _blogDbContext.Blogs.Where(x => x.UserId == userid).OrderByDescending(x=>x.TimeStamp).AsEnumerable();
+            return BlogModels;
+        }
+        public IEnumerable<BlogModel> GetBlogsByBlogId(int id)
+        {
+            BlogModels = _blogDbContext.Blogs.Where(x => x.BlogId == id).AsEnumerable();
             return BlogModels;
         }
 

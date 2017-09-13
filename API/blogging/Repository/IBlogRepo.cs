@@ -15,7 +15,8 @@ namespace blogging.Repository
         Boolean AddBlog(BlogModel blog);
         Boolean DeleteBlog(int BlogId);
         Boolean UpdateBlog(BlogModel blog);
-        IEnumerable<BlogModel> GetBlogsByUser(int userid);
+        IEnumerable<BlogModel> GetBlogsByUser(string userid);
         IEnumerable<BlogModel> GetBlogsByTag(string tag);
+        IEnumerable<BlogModel> GetBlogsByBlogId(int id);
     }
 }
