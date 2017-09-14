@@ -1,23 +1,4 @@
-﻿$("#addblogid").click(function (event) {
-    console.log($("#form").serialize());
-    var form = $("#form").serialize();
-    $.ajax({
-        url: '/UserData/AddBlog',
-        type: "POST",
-        data: form //if you need to post Model data, use this
-    }).done(function (result) {
-        $.ajax({
-            url: '/UserData/PostTemplate',//"@Url.Action('UserData/Post')",
-            type: "POST",
-            data: form //if you need to post Model data, use this
-        }).done(function (result) {
-            console.log(result);
-            $("#partialprepend").html(result);
-        });
-    });
-});
-
-$('.tag').click(function (event) {
+﻿$('.tag').click(function (event) {
     var id = String(event.target.id);
     //console.log(id);
     $("#getpostbytagdiv").html("<i class=\"fa fa-circle-o-notch fa-spin\" style=\"font-size:24px\"></i>");
@@ -30,11 +11,17 @@ $('.tag').click(function (event) {
     });
 });
 
-//var data = $("#form");
-//$post('AddBlog', data.serialize())
-//    .done(function () {
-//        $post('Post', data.serialize())
-//            .done(function (result) {
-//                $("#partial").prepend(result);
-//            });
-//    });
+$('.deletepostclass').click(function (event) {
+    var id = $(event.target).attr('data-id');
+    console.log(id);
+    $("#confirmdelete").attr('data-id', id);
+});
+
+$('#confirmdelete').click(function (event) {
+    var id = $(event.target).attr('data-id');
+    console.log(id);
+    $.ajax({
+        url: '/UserData/DeleteBlog/' + id,
+        type: 'DELETE'
+    })
+})

@@ -703,6 +703,5 @@ E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
 E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
 E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
-E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
 E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.dll
 E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.pdb

@@ -68,8 +68,6 @@ namespace owin_1.Controllers
         [HttpPost]
         public async Task<ActionResult> AddBlog(BlogModel blogModel)
         {
-            List<BlogModel> BlogInfo = new List<BlogModel>();
-
             using (var client = new HttpClient())
             {
                 //Passing service base url  
@@ -83,18 +81,27 @@ namespace owin_1.Controllers
                 var sendData = new BlogModel() { UserId = User.Identity.GetUserName(), Tag = blogModel.Tag, Content = blogModel.Content };
                 HttpResponseMessage Res = await client.PostAsJsonAsync("/api/values/", sendData);
 
-                var dropDownList = new SelectList(
-                        new List<SelectListItem>
-                        {
-                            new SelectListItem { Text = "Featured", Value = "featured"},
-                            new SelectListItem { Text = "Music", Value = "music"},
-                            new SelectListItem { Text = "Sports", Value = "sports"},
-                            new SelectListItem { Text = "Entertainment", Value = "entertainment"},
-                            new SelectListItem { Text = "Technology", Value = "technology"}
-                        }, "Value", "Text");
-                ViewBag.Tag = dropDownList;
+                return RedirectToAction("Index");
+            }
+        }
 
-                return PartialView();
+        [HttpDelete]
+        [Route("UserData/DeleteBlog/{id}")]
+        public async Task<ActionResult> DeleteBlog(string id)
+        {
+            using (var client = new HttpClient())
+            {
+                //Passing service base url  
+                client.BaseAddress = new Uri(Baseurl);
+
+                client.DefaultRequestHeaders.Clear();
+                //Define request data format  
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                //Sending request to find web api REST service resource GetAllEmployees using HttpClient  
+                HttpResponseMessage Res = await client.DeleteAsync("/api/values/delete/" + id);
+                
+                return RedirectToAction("Index");
             }
         }
 

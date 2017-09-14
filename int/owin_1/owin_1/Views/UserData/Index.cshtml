@@ -19,3 +19,30 @@
         @Html.Partial("PostTemplate", item)
     }
 </div>
+
+@section modal{
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Delete Post?</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to delete the post ?</p>
+                </div>
+                <div class="modal-footer">
+                    @*<div data-dismiss="modal">
+                        @Html.ActionLink("Yes", "Index", "UserData", new { }, new { @class = "btn btn-primary", @type = "button" })
+                    </div>*@
+                    <button type="button" class="btn btn-primary" data-id="" id="confirmdelete">Yes</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
