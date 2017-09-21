@@ -1,0 +1,41 @@
+﻿@model IEnumerable<owin_1.Models.BlogModel>
+
+@{
+    ViewBag.Title = "View Blog";
+}
+
+<div class="form-horizontal">
+    <hr />
+    <div id="partial">
+        @foreach (var item in Model)
+        {
+            @Html.Partial("Post", item)
+        }
+    </div>
+</div>
+
+@*<div class="form-horizontal">
+    <hr />
+    <div class="form-group">
+    <table class="table table-responsive" style="width:400px">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tag)
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tag)
+                </td>
+
+            </tr>
+        }
+    </table>*@

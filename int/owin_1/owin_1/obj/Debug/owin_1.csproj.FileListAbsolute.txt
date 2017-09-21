@@ -1,0 +1,825 @@
+D:\project\owin_1\owin_1\bin\ApplicationInsights.config
+D:\project\owin_1\owin_1\bin\roslyn\csc.exe
+D:\project\owin_1\owin_1\bin\roslyn\csc.exe.config
+D:\project\owin_1\owin_1\bin\roslyn\csc.rsp
+D:\project\owin_1\owin_1\bin\roslyn\csi.exe
+D:\project\owin_1\owin_1\bin\roslyn\csi.rsp
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+D:\project\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+D:\project\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+D:\project\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\owin_1\owin_1\bin\roslyn\vbc.exe
+D:\project\owin_1\owin_1\bin\roslyn\vbc.exe.config
+D:\project\owin_1\owin_1\bin\roslyn\vbc.rsp
+D:\project\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+D:\project\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+D:\project\owin_1\owin_1\bin\owin_1.dll.config
+D:\project\owin_1\owin_1\bin\owin_1.dll
+D:\project\owin_1\owin_1\bin\owin_1.pdb
+D:\project\owin_1\owin_1\bin\Antlr3.Runtime.dll
+D:\project\owin_1\owin_1\bin\EntityFramework.dll
+D:\project\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+D:\project\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+D:\project\owin_1\owin_1\bin\Newtonsoft.Json.dll
+D:\project\owin_1\owin_1\bin\Owin.dll
+D:\project\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+D:\project\owin_1\owin_1\bin\System.Web.Helpers.dll
+D:\project\owin_1\owin_1\bin\System.Web.Http.dll
+D:\project\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+D:\project\owin_1\owin_1\bin\System.Web.Mvc.dll
+D:\project\owin_1\owin_1\bin\System.Web.Optimization.dll
+D:\project\owin_1\owin_1\bin\System.Web.Razor.dll
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.dll
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+D:\project\owin_1\owin_1\bin\WebGrease.dll
+D:\project\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\owin_1\owin_1\bin\System.Web.Helpers.xml
+D:\project\owin_1\owin_1\bin\System.Web.Mvc.xml
+D:\project\owin_1\owin_1\bin\System.Web.Optimization.xml
+D:\project\owin_1\owin_1\bin\System.Web.Razor.xml
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.xml
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+D:\project\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+D:\project\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+D:\project\owin_1\owin_1\bin\Newtonsoft.Json.xml
+D:\project\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+D:\project\owin_1\owin_1\bin\System.Web.Http.xml
+D:\project\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+D:\project\owin_1\owin_1\bin\EntityFramework.xml
+D:\project\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+D:\project\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+D:\project\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+D:\project\owin_1\owin_1\obj\Debug\owin_1.dll
+D:\project\owin_1\owin_1\obj\Debug\owin_1.pdb
+D:\project\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+D:\project\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\project\owin_1\owin_1\bin\RestSharp.dll
+D:\project\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\project\owin_1\owin_1\bin\Twilio.Api.dll
+D:\project\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\project\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\project\owin_1\owin_1\bin\Twilio.Api.pdb
+D:\project\owin_1\owin_1\bin\Twilio.Api.xml
+D:\project\owin_1\owin_1\bin\MimeTypesMap.dll
+D:\project\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\project\owin_1\owin_1\bin\SendGrid.dll
+D:\project\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+D:\project\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\owin_1\owin_1\bin\SendGrid.pdb
+D:\project\owin_1\owin_1\bin\SendGrid.xml
+E:\Unity Projects\owin_1\owin_1\bin\ApplicationInsights.config
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\csc.exe
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\csc.exe.config
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\csc.rsp
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\csi.exe
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\csi.rsp
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\vbc.exe
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\vbc.exe.config
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\vbc.rsp
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+E:\Unity Projects\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+E:\Unity Projects\owin_1\owin_1\bin\owin_1.dll.config
+E:\Unity Projects\owin_1\owin_1\bin\owin_1.dll
+E:\Unity Projects\owin_1\owin_1\bin\owin_1.pdb
+E:\Unity Projects\owin_1\owin_1\bin\Antlr3.Runtime.dll
+E:\Unity Projects\owin_1\owin_1\bin\EntityFramework.dll
+E:\Unity Projects\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+E:\Unity Projects\owin_1\owin_1\bin\MimeTypesMap.dll
+E:\Unity Projects\owin_1\owin_1\bin\Newtonsoft.Json.dll
+E:\Unity Projects\owin_1\owin_1\bin\Owin.dll
+E:\Unity Projects\owin_1\owin_1\bin\RestSharp.dll
+E:\Unity Projects\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+E:\Unity Projects\owin_1\owin_1\bin\SendGrid.dll
+E:\Unity Projects\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Helpers.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Http.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Mvc.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Optimization.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Razor.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.dll
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+E:\Unity Projects\owin_1\owin_1\bin\Twilio.Api.dll
+E:\Unity Projects\owin_1\owin_1\bin\WebGrease.dll
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Unity Projects\owin_1\owin_1\bin\Newtonsoft.Json.xml
+E:\Unity Projects\owin_1\owin_1\bin\SendGrid.pdb
+E:\Unity Projects\owin_1\owin_1\bin\SendGrid.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Helpers.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Mvc.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Optimization.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Razor.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+E:\Unity Projects\owin_1\owin_1\bin\Twilio.Api.pdb
+E:\Unity Projects\owin_1\owin_1\bin\Twilio.Api.xml
+E:\Unity Projects\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+E:\Unity Projects\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Http.xml
+E:\Unity Projects\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+E:\Unity Projects\owin_1\owin_1\bin\EntityFramework.xml
+E:\Unity Projects\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+E:\Unity Projects\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+E:\Unity Projects\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+E:\Unity Projects\owin_1\owin_1\obj\Debug\owin_1.dll
+E:\Unity Projects\owin_1\owin_1\obj\Debug\owin_1.pdb
+E:\Git\int\owin_1\owin_1\bin\ApplicationInsights.config
+E:\Git\int\owin_1\owin_1\bin\roslyn\csc.exe
+E:\Git\int\owin_1\owin_1\bin\roslyn\csc.exe.config
+E:\Git\int\owin_1\owin_1\bin\roslyn\csc.rsp
+E:\Git\int\owin_1\owin_1\bin\roslyn\csi.exe
+E:\Git\int\owin_1\owin_1\bin\roslyn\csi.rsp
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git\int\owin_1\owin_1\bin\roslyn\vbc.exe
+E:\Git\int\owin_1\owin_1\bin\roslyn\vbc.exe.config
+E:\Git\int\owin_1\owin_1\bin\roslyn\vbc.rsp
+E:\Git\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+E:\Git\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+E:\Git\int\owin_1\owin_1\bin\owin_1.dll.config
+E:\Git\int\owin_1\owin_1\bin\owin_1.dll
+E:\Git\int\owin_1\owin_1\bin\owin_1.pdb
+E:\Git\int\owin_1\owin_1\bin\Antlr3.Runtime.dll
+E:\Git\int\owin_1\owin_1\bin\EntityFramework.dll
+E:\Git\int\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\int\owin_1\owin_1\bin\MimeTypesMap.dll
+E:\Git\int\owin_1\owin_1\bin\Newtonsoft.Json.dll
+E:\Git\int\owin_1\owin_1\bin\Owin.dll
+E:\Git\int\owin_1\owin_1\bin\RestSharp.dll
+E:\Git\int\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+E:\Git\int\owin_1\owin_1\bin\SendGrid.dll
+E:\Git\int\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+E:\Git\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\int\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+E:\Git\int\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Helpers.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Http.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Mvc.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Optimization.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.Razor.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.dll
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+E:\Git\int\owin_1\owin_1\bin\Twilio.Api.dll
+E:\Git\int\owin_1\owin_1\bin\WebGrease.dll
+E:\Git\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Git\int\owin_1\owin_1\bin\Newtonsoft.Json.xml
+E:\Git\int\owin_1\owin_1\bin\SendGrid.pdb
+E:\Git\int\owin_1\owin_1\bin\SendGrid.xml
+E:\Git\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Helpers.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Mvc.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Optimization.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Razor.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+E:\Git\int\owin_1\owin_1\bin\Twilio.Api.pdb
+E:\Git\int\owin_1\owin_1\bin\Twilio.Api.xml
+E:\Git\int\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+E:\Git\int\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Http.xml
+E:\Git\int\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+E:\Git\int\owin_1\owin_1\bin\EntityFramework.xml
+E:\Git\int\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+E:\Git\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+E:\Git\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+E:\Git\int\owin_1\owin_1\obj\Debug\owin_1.dll
+E:\Git\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\ApplicationInsights.config
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\csc.exe
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\csc.exe.config
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\csc.rsp
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\csi.exe
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\csi.rsp
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\vbc.exe
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\vbc.exe.config
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\vbc.rsp
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\owin_1.dll.config
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\owin_1.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\owin_1.pdb
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Antlr3.Runtime.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\EntityFramework.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\MimeTypesMap.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Newtonsoft.Json.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Owin.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\RestSharp.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\SendGrid.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Helpers.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Http.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Mvc.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Optimization.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Razor.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Twilio.Api.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\WebGrease.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Newtonsoft.Json.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\SendGrid.pdb
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\SendGrid.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Helpers.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Mvc.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Optimization.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Razor.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Twilio.Api.pdb
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Twilio.Api.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Http.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\EntityFramework.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\obj\Debug\owin_1.dll
+D:\project\Final_Project\BlogProject\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\ApplicationInsights.config
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\csc.exe
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\csc.exe.config
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\csc.rsp
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\csi.exe
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\csi.rsp
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\vbc.exe
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\vbc.exe.config
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\vbc.rsp
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\owin_1.dll.config
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\owin_1.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\owin_1.pdb
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Antlr3.Runtime.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\EntityFramework.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\MimeTypesMap.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Newtonsoft.Json.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Owin.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\RestSharp.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\SendGrid.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Helpers.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Http.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Mvc.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Optimization.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Razor.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Twilio.Api.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\WebGrease.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Newtonsoft.Json.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\SendGrid.pdb
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\SendGrid.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Helpers.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Mvc.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Optimization.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Razor.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Twilio.Api.pdb
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Twilio.Api.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Http.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\EntityFramework.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\obj\Debug\owin_1.dll
+D:\training\Project\GitProject\Final\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+E:\GitNew\int\owin_1\owin_1\bin\ApplicationInsights.config
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\csc.exe
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\csc.exe.config
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\csc.rsp
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\csi.exe
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\csi.rsp
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\vbc.exe
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\vbc.exe.config
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\vbc.rsp
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+E:\GitNew\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+E:\GitNew\int\owin_1\owin_1\bin\owin_1.dll.config
+E:\GitNew\int\owin_1\owin_1\bin\owin_1.dll
+E:\GitNew\int\owin_1\owin_1\bin\owin_1.pdb
+E:\GitNew\int\owin_1\owin_1\bin\Antlr3.Runtime.dll
+E:\GitNew\int\owin_1\owin_1\bin\EntityFramework.dll
+E:\GitNew\int\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+E:\GitNew\int\owin_1\owin_1\bin\MimeTypesMap.dll
+E:\GitNew\int\owin_1\owin_1\bin\Newtonsoft.Json.dll
+E:\GitNew\int\owin_1\owin_1\bin\Owin.dll
+E:\GitNew\int\owin_1\owin_1\bin\RestSharp.dll
+E:\GitNew\int\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+E:\GitNew\int\owin_1\owin_1\bin\SendGrid.dll
+E:\GitNew\int\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Helpers.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Http.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Mvc.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Optimization.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Razor.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.dll
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+E:\GitNew\int\owin_1\owin_1\bin\Twilio.Api.dll
+E:\GitNew\int\owin_1\owin_1\bin\WebGrease.dll
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+E:\GitNew\int\owin_1\owin_1\bin\Newtonsoft.Json.xml
+E:\GitNew\int\owin_1\owin_1\bin\SendGrid.pdb
+E:\GitNew\int\owin_1\owin_1\bin\SendGrid.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Helpers.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Mvc.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Optimization.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Razor.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+E:\GitNew\int\owin_1\owin_1\bin\Twilio.Api.pdb
+E:\GitNew\int\owin_1\owin_1\bin\Twilio.Api.xml
+E:\GitNew\int\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+E:\GitNew\int\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Http.xml
+E:\GitNew\int\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+E:\GitNew\int\owin_1\owin_1\bin\EntityFramework.xml
+E:\GitNew\int\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.dll
+E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\ApplicationInsights.config
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csc.exe
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csc.exe.config
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csc.rsp
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csi.exe
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csi.rsp
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.AppContext.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.Collections.Immutable.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\vbc.exe
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\vbc.exe.config
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\vbc.rsp
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\VBCSCompiler.exe.config
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\owin_1.dll.config
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\owin_1.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\owin_1.pdb
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Antlr3.Runtime.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\EntityFramework.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\EntityFramework.SqlServer.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.Web.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Logging.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Web.Infrastructure.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\MimeTypesMap.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Newtonsoft.Json.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Owin.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\RestSharp.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\SendGrid.CSharp.HTTP.Client.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\SendGrid.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\SendGrid.SmtpApi.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Net.Http.Formatting.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Helpers.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Http.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Http.WebHost.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Mvc.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Optimization.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Razor.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Twilio.Api.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\WebGrease.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Newtonsoft.Json.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\SendGrid.pdb
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\SendGrid.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Helpers.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Mvc.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Optimization.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Razor.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.Deployment.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.WebPages.Razor.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Twilio.Api.pdb
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Twilio.Api.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Antlr3.Runtime.pdb
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Net.Http.Formatting.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Http.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\System.Web.Http.WebHost.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\EntityFramework.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\EntityFramework.SqlServer.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Google.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.ApplicationInsights.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.dll
+E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.pdb

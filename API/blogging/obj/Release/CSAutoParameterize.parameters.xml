@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DemoConnString-Web.config Connection String" description="DemoConnString Connection String used in web.config by the application to access the database." defaultValue="Server= tcp:ncg40.database.windows.net,1433;Initial Catalog=NCG40;Persist Security Info=False;User ID= msftncg;Password= Welcome@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\blogging\\blogging\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DemoConnString']/@connectionString" />
+  </parameter>
+</parameters>
