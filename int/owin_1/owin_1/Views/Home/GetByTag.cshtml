@@ -1,0 +1,40 @@
+﻿@model IEnumerable<owin_1.Models.BlogModel>
+
+
+
+<div class="row" style="margin-top:50px;">
+    <div class="blog-posts">
+        @foreach (var item in Model)
+        {
+            <div class="panel panel-default" style="margin-left: 40px; margin-right: 40px;">
+                <div class="panel-heading">
+                    <a href="~/Home/Index" style="font-size: 16px;">-By @item.UserId</a>
+                </div>
+
+                <div class="panel-body"><p id="content-text">@item.Content</p></div>
+
+                <div class="panel-footer">
+                    <a href="#" style="text-align:right;"><span class="glyphicon glyphicon-tag"></span>@item.Tag </a> on @item.TimeStamp
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+@* @model IEnumerable<owin_1.Models.BlogModel>
+
+    @{
+        ViewBag.Title = "Get Post By Tag";
+    }
+
+    <div class="form-horizontal">
+        <hr />
+        @foreach (var item in Model)
+        {
+            @Html.Partial("PostTemplate", item)
+        }
+    </div> *@
+
+
+

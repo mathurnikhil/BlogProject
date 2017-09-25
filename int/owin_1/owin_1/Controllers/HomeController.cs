@@ -13,17 +13,24 @@ namespace owin_1.Controllers
 {
     public class HomeController : Controller
     {
-        string Baseurl = "http://demoblogapi.azurewebsites.net/";
+
+        string Baseurl = "http://blobbloggingapi.azurewebsites.net/";
+
 
         public ActionResult Index()
         {
             return View();
         }
 
-        [Route("Home/GetPostByTag/{id}")]
-        public async Task<ActionResult> GetPostByTag(string id)
+
+        public ActionResult PostTemplate(BlogModel model)
         {
-            List<BlogModel> BlogModel = new List<BlogModel>();
+            return PartialView(model);
+        }
+
+        public async Task<PartialViewResult> GetByTag(string tag)
+        {
+            List<BlogModel> BlogInfo = new List<BlogModel>();
 
             using (var client = new HttpClient())
             {
@@ -35,7 +42,10 @@ namespace owin_1.Controllers
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
                 //Sending request to find web api REST service resource GetAllEmployees using HttpClient  
-                HttpResponseMessage Res = await client.GetAsync("/api/values/tag/" + id);
+
+                //HttpResponseMessage Res = await client.GetAsync("api/values/tag/{tag}");
+                HttpResponseMessage Res = await client.GetAsync("/api/values/tag/" + tag);
+
 
                 //Checking the response is successful or not which is sent using HttpClient  
                 if (Res.IsSuccessStatusCode)
@@ -44,12 +54,11 @@ namespace owin_1.Controllers
                     var BlogResponse = Res.Content.ReadAsStringAsync().Result;
 
                     //Deserializing the response recieved from web api and storing into the Employee list  
-                    BlogModel = JsonConvert.DeserializeObject<List<BlogModel>>(BlogResponse);
-
+                    BlogInfo = JsonConvert.DeserializeObject<List<BlogModel>>(BlogResponse);
                 }
+                //returning the employee list to view  
+                return PartialView(BlogInfo);
             }
-
-            return PartialView(BlogModel);
         }
     }
 }

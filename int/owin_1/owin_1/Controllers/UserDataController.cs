@@ -17,7 +17,7 @@ namespace owin_1.Controllers
     [Authorize]
     public class UserDataController : Controller
     {
-        string Baseurl = "http://demoblogapi.azurewebsites.net/";
+        string Baseurl = "http://blobbloggingapi.azurewebsites.net/";
 
         public async Task<ActionResult> Index()
         {
