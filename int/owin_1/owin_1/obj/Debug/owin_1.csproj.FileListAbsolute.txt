@@ -705,6 +705,7 @@ E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.WindowsServer.xml
 E:\GitNew\int\owin_1\owin_1\bin\Microsoft.AI.Web.xml
 E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.dll
 E:\GitNew\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+<<<<<<< HEAD
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\ApplicationInsights.config
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csc.exe
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\roslyn\csc.exe.config
@@ -823,3 +824,5 @@ E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\bin\Micr
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.csprojResolveAssemblyReference.cache
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.dll
 E:\Assignments Sunil\BlogProject-3\BlogProject-master\int\owin_1\owin_1\obj\Debug\owin_1.pdb
+=======
+>>>>>>> 374c29573a8beb6c2a735b5b619b966d1de38dee

@@ -1,0 +1,13 @@
+﻿@model IEnumerable<owin_1.Models.BlogModel>
+
+@{
+    ViewBag.Title = "Get Post By Tag";
+}
+
+<div class="form-horizontal">
+    <hr />
+    @foreach (var item in Model)
+    {
+        @Html.Partial("PostTemplate", item)
+    }
+</div>

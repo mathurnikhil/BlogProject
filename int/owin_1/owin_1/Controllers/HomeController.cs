@@ -13,12 +13,15 @@ namespace owin_1.Controllers
 {
     public class HomeController : Controller
     {
+
         string Baseurl = "http://blobbloggingapi.azurewebsites.net/";
+
 
         public ActionResult Index()
         {
             return View();
         }
+
 
         public ActionResult PostTemplate(BlogModel model)
         {
@@ -39,8 +42,10 @@ namespace owin_1.Controllers
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
                 //Sending request to find web api REST service resource GetAllEmployees using HttpClient  
+
                 //HttpResponseMessage Res = await client.GetAsync("api/values/tag/{tag}");
                 HttpResponseMessage Res = await client.GetAsync("/api/values/tag/" + tag);
+
 
                 //Checking the response is successful or not which is sent using HttpClient  
                 if (Res.IsSuccessStatusCode)
